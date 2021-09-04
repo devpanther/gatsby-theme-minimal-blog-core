@@ -4,36 +4,33 @@
   </a>
 </p>
 <h1 align="center">
-  @lekoarts/gatsby-theme-minimal-blog-core
+  @devpanther/gatsby-theme-minimal-blog-core
 </h1>
 
 <p align="center">
   <a href="https://github.com/LekoArts/gatsby-themes/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="@lekoarts/gatsby-theme-minimal-blog-core is released under the MIT license." />
   </a>
-  <a href="https://www.npmjs.org/package/@lekoarts/gatsby-theme-minimal-blog-core">
-    <img src="https://img.shields.io/npm/v/@lekoarts/gatsby-theme-minimal-blog-core.svg" alt="Current npm package version." />
+  <a href="https://www.npmjs.org/package/@devpanther/gatsby-theme-minimal-blog-core">
+    <img src="https://img.shields.io/npm/v/@devpanther/gatsby-theme-minimal-blog-core.svg" alt="Current npm package version." />
   </a>
-  <a href="https://npmcharts.com/compare/@lekoarts/gatsby-theme-minimal-blog-core?minimal=true">
-    <img src="https://img.shields.io/npm/dm/@lekoarts/gatsby-theme-minimal-blog-core.svg" alt="Downloads per month on npm." />
+  <a href="https://npmcharts.com/compare/@devpanther/gatsby-theme-minimal-blog-core?minimal=true">
+    <img src="https://img.shields.io/npm/dm/@devpanther/gatsby-theme-minimal-blog-core.svg" alt="Downloads per month on npm." />
   </a>
-  <a href="https://npmcharts.com/compare/@lekoarts/gatsby-theme-minimal-blog-core?minimal=true">
-    <img src="https://img.shields.io/npm/dt/@lekoarts/gatsby-theme-minimal-blog-core.svg" alt="Total downloads on npm." />
+  <a href="https://npmcharts.com/compare/@devpanther/gatsby-theme-minimal-blog-core?minimal=true">
+    <img src="https://img.shields.io/npm/dt/@devpanther/gatsby-theme-minimal-blog-core.svg" alt="Total downloads on npm." />
   </a>
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
-  <a href="https://twitter.com/intent/follow?screen_name=lekoarts_de">
-      <img src="https://img.shields.io/twitter/follow/lekoarts_de.svg?label=Follow%20@lekoarts_de" alt="Follow @lekoarts_de" />
-    </a>
 </p>
 
-Core Theme for [`@lekoarts/gatsby-theme-minimal-blog`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-minimal-blog). This theme implements the `Post` and `Page` node interfaces and exports templates (+ queries) which you can shadow.
+Core Theme for [`@devpanther/gatsby-theme-minimal-blog`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-minimal-blog). This theme implements the `Post` and `Page` node interfaces and exports templates (+ queries) which you can shadow.
 
 Also be sure to checkout other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de)
 
 ## Installation
 
 ```sh
-npm install @lekoarts/gatsby-theme-minimal-blog-core
+npm install @devpanther/gatsby-theme-minimal-blog-core
 ```
 
 ## Usage
