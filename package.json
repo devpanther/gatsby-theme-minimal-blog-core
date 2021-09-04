@@ -1,0 +1,50 @@
+{
+  "author": {
+    "name": "jordanclive",
+    "email": "hello@jordanclive.com"
+  },
+  "bugs": {
+    "url": "https://github.com/LekoArts/gatsby-themes/issues"
+  },
+  "dependencies": {
+    "@mdx-js/mdx": "^1.6.22",
+    "@mdx-js/react": "^1.6.22",
+    "gatsby-plugin-mdx": "^1.9.0",
+    "gatsby-plugin-sharp": "^2.13.4",
+    "gatsby-plugin-typescript": "^2.11.0",
+    "gatsby-remark-images": "^3.10.0",
+    "gatsby-source-filesystem": "^2.10.0",
+    "gatsby-transformer-sharp": "^2.11.0",
+    "lodash.kebabcase": "^4.1.1"
+  },
+  "description": "Core Theme for @devpanther/gatsby-theme-minimal-blog. This theme implements the Post and Page node interfaces and exports templates (+ queries) which you can shadow.",
+  "keywords": [
+    "gatsby",
+    "gatsby-theme",
+    "gatsby-plugin",
+    "devpanther"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@devpanther/gatsby-theme-minimal-blog-core",
+  "peerDependencies": {
+    "gatsby": "^2.17.10",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LekoArts/gatsby-themes.git",
+    "directory": "themes/gatsby-theme-minimal-blog-core"
+  },
+  "scripts": {
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "develop": "gatsby develop",
+    "start": "gatsby develop"
+  },
+  "version": "2.7.6"
+}
